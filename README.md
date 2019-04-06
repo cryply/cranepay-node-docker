@@ -10,7 +10,7 @@
 
 *To build yourself use:*
 
-`docker build -tcranepay/cranepay-node .`
+`docker build -t cranepay/cranepay-node .`
 
 License: MIT
 
