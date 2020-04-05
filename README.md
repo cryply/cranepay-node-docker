@@ -17,6 +17,8 @@
 
 `curl --user u:x --data-binary '{"jsonrpc": "1.0", "id":"curltest", "method": "getblockchaininfo", "params": [] }' -H 'content-type: text/plain;' localhost:48887/`
 
+"Can require different IP than localhost"
+
 *To build yourself use:*
 
 `docker build -t cranepay/cranepay-node .`
