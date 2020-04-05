@@ -2,11 +2,11 @@
 
 *to run compiled image from hub.docker.com*
 
-`docker run -p 48886:48886 -p 127.0.0.1:48887:48887 -v data:/data --name cranepayd cranepay/cranepay-node`
+`docker run -p 48886:48886 -p 127.0.0.1:48887:48887 -v data:/data --name cranepayd cranepay/cranepayd`
 
 *or without debug log in demonized mode*
 
-`docker run -d -p 48886:48886 -p 127.0.0.1:48887:48887 -v data:/data --name cranepayd cranepay/cranepay-node`
+`docker run -d -p 48886:48886 -p 127.0.0.1:48887:48887 -v data:/data --name cranepayd cranepay/cranepayd`
 
 *test*
 
