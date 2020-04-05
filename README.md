@@ -25,6 +25,6 @@
 
 License: MIT
 
-2019 (C) Cranepay Foundation. https://cranepay.io
+2019-2020 (C) Cranepay Foundation. https://cranepay.io
 
 
